@@ -14,4 +14,5 @@ python CharacterizationGaussianBeam.py
 ```
 
 You need to have multiple csv files with the syntaxe position_x-ycm.csv where the razor is a x,y cm from the start point.
+Files need to bee in the same reporty than the python file.
 You can see an example in the folder example.
